@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Logo from "../assets/Logo.jpg";
+import Logo from "../assets/logo.jpg";
 import { FaChevronRight } from "react-icons/fa";
 import { HiMenuAlt3, HiMenuAlt1 } from "react-icons/hi";
 import ResponsiveMenu from "./ResponsiveMenu";
